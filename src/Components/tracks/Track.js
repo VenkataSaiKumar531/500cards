@@ -27,7 +27,7 @@ const Track =({id,name,email,body})=>{
                                                     place:"Annadevarapeta"
                                                 }
                                              
-                                            }}> Click me once</Link> 
+                                            }}> Click me once!!</Link> 
 
 {/* <Link to='/More'> More</Link> */}
                                           
