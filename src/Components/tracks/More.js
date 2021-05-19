@@ -7,7 +7,7 @@ const More =(props)=>{
     return(
         <>
         <h3> I am more Component</h3>
-        <p> Thank you for visit</p>
+        <p> Thank you for visit Jithu!! Teacher</p>
 
         <Link to='/'>HOME</Link>
 
